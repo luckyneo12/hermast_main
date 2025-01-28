@@ -39,9 +39,9 @@ export default function AboutUs() {
             <p className="text-lg mb-4">
             we are committed to providing reliable solutions that combine innovation, simplicity, and efficiency for lasting success.
             </p>
-            <p className="text-lg">
+{/*             <p className="text-lg">
               Based in Indore, Madhya Pradesh.
-            </p>
+            </p> */}
           </div>
         </div>
       </div>
